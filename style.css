@@ -1,0 +1,116 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'spartan', sans-serif;
+    background-color: hsl(300,24%,96%);
+}
+.star1{
+    border: solid hsl(300, 24%, 96%) 2px;
+    background-color:hsl(300, 24%, 96%);
+    margin: 20px;
+    width: 600px;
+    padding: 10px;
+    color:hsl(300, 43%, 22%);
+    align-self: start;
+}
+.star2{
+    border:  hsl(300, 43%, 22%);
+    background-color:hsl(300, 24%, 96%);
+    margin: 20px;
+    width: 600px;
+    padding: 10px;
+    color:hsl(300, 43%, 22%);
+}   
+.star3{
+    border: hsl(300, 43%, 22%);
+    background-color:hsl(300, 24%, 96%);
+    margin: 20px;
+    width: 600px;
+    padding: 10px;
+    color:hsl(300, 43%, 22%);
+}
+ .wrapper{
+     width: 90%;
+     margin:30px auto
+ }   
+ .inner-wrapper{
+     text-align: center;
+     margin:60px 0;
+ }
+ .wrap1 h2{
+     font-weight: 700;
+     color:hsl(300, 43%, 22%);
+     font-size: 50px;
+ }
+ .wrap1 p{
+     font-weight: 500;
+     margin: 30px 0;
+     color:hsl(300, 43%, 22%); 
+ }
+    
+#sub{
+    color:hsl(300, 43%, 22%); 
+    font-weight: 700;
+    margin: 20px;
+    padding: 30px;
+    border: 20px;
+}
+
+.flexcontainer{
+    display: flex;
+    border: 2px;
+    justify-content: space-between;
+    align-items:center;
+    height: 400px;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 20px;
+    
+}
+.box1{
+    align-self: start;
+    background-color:hsl(300, 43%, 22%);
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    font-size: 15px;
+    justify-items: right;
+}
+.box2{
+    align-self: center;
+    background-color:hsl(300, 43%, 22%);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    align-content: center;
+    font-size: 15px;
+}
+.box3{
+    align-self: end;
+    background-color:hsl(300, 43%, 22%); 
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    align-content: center;
+}
+.colton{
+    width:50px;
+    height: 50px;
+    
+}
+.irene{
+    width: 50px;
+    height: 50px;
+    
+}
+.anne{
+    width: 50px;
+    height: 50px;
+}
+h6{
+    text-align: center;
+    color: orangered;
+    margin: 5px;
+}
